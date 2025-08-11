@@ -1,6 +1,21 @@
-# 👋 Hi, I'm YOON SEONG MUN
+<!-- 타이틀 -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Yoon+Seong+Mun&center=true&size=24">
+  </a>
+</div>
 
-💻 Fullstack Developer | Product Planner | Team Player  
+<br>
+
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=loading1031&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loading1031&layout=compact&theme=radical&hide=jupyter%20notebook,html,css" />
+</div>
+
+<br>
+
+💻 Fullstack Developer | Product Planner | AI Researcher  
 📍 Ansan, South Korea  
 🚀 Always building, learning, and improving.
 
